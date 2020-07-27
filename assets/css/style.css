@@ -522,6 +522,7 @@ figcaption:nth-of-type(2){
   width:32%;
 }
 .card{
+  min-height: 200px;
   padding: 20px ;
   border: 1px solid #f2f2f2;
 }
@@ -843,7 +844,7 @@ nav a{
   font-size:30px;
   background-color: #7b2a26;
   border-radius: 10px;
-  padding: 5px 10px;
+  padding: 10px 15px;
 }
 #hamburger a{
   color:white;
