@@ -1052,11 +1052,15 @@ h5{
 .navbar{
   margin: 44px 0;
 }
+.searchbar {
+  font-size: 26px;
+}
 }
 @media only screen and (max-width:500px) {
 #hamburger{
   top:10px;
   right:24px;
+  font-size: 22px;
 }
 .navbar{
   margin: 30px 0;
@@ -1191,5 +1195,8 @@ h5{
 }
 .copyright a{
   font-size: 14px;
+}
+.searchbar{
+  font-size:16px;
 }
 }
