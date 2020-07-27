@@ -958,6 +958,12 @@ font-size:20px;
 .owl-theme .owl-dots .owl-dot span{
   border: 3px solid #b8b8b6;
 }
+.owl-dots{
+  position: unset;
+}
+.owl-theme .owl-dots .owl-dot{
+  display: inline-block;
+}
 .quote{
   right: 43%;
 }
