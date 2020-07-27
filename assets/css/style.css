@@ -471,7 +471,7 @@ figcaption:nth-of-type(2){
 }
 .consultant_details{
   padding: 6% 0;
-  background-image: url("/assets/images/inner_banner2a.jpg");
+  background-image: url("../images/inner_banner2a.jpg");
   background-position: center;
 }
 .consultant_content h3{
@@ -582,17 +582,17 @@ figcaption:nth-of-type(2){
 }
 .testimonials1{
   padding:6% 0;
-  background-image: url("/assets/images/inner_banner2a.jpg");
+  background-image: url("../images/inner_banner2a.jpg");
   background-position: bottom;
 }
 .testimonials2{
   padding:6% 0;
-  background-image: url("/assets/images/inner_banner2a.jpg");
+  background-image: url("../images/inner_banner2a.jpg");
   background-position:top;
 }
 .testimonials3{
   padding:6% 0;
-  background-image: url("/assets/images/inner_banner2a.jpg");
+  background-image: url("../images/inner_banner2a.jpg");
   background-position:center;
 }
 .testimonials1 h3{
