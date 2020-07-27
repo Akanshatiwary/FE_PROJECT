@@ -576,8 +576,8 @@ figcaption:nth-of-type(2){
   right:5%;
 }
 .owl-carousel .owl-item img{
-  display: inline;
-  width:auto;
+  display: inline-block;
+  width: auto;
 }
 .testimonials1{
   padding:6% 0;
