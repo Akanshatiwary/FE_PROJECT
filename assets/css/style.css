@@ -770,7 +770,7 @@ hr{
   padding: 20px 0;
   display: block;
   color: #99928c;
-  font-size: 14px;
+  font-size: 12px;
   font-family: 'OpenSans';
   font-weight: 300;
   text-align: center;
@@ -1054,6 +1054,9 @@ h5{
 }
 .searchbar {
   font-size: 26px;
+}
+.process_control_content {
+  padding-left: 0;
 }
 }
 @media only screen and (max-width:500px) {
