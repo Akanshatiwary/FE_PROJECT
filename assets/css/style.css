@@ -595,7 +595,7 @@ figcaption:nth-of-type(2){
   background-position:center;
 }
 .testimonials1 .wrapper{
-  display: flex;
+  display:flex;
 }
 .testimonials1 h3{
   color: #ffffff;
